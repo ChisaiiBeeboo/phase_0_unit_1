@@ -7,4 +7,4 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+w3 school was tremendous for this challenge, having no HTML/CSS experience prior to this I initially felt lost and frustrated. The GDI slideshow made the HTML portion of the exercise pretty simple. I'm struggling with CSS, I understand the logic behind absolute and relative positioning, but am lost as far as knowing what values/dimension to use. I understand HTML tags, it's the positioning of objects I'm still trying to grasp. A fellow boot pointed me towards a treehouse tutorial that should clear things up. I enjoyed the HTML portion of the challenge much more than the CSS portion, the numbers were extremely tedious.
