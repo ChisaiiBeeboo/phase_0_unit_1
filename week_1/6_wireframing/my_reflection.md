@@ -10,4 +10,4 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+I learned that in creative design it's imperative to keep an open mind, don't be afraid to take non-conventional methods towards solving problems. Try to anticipate what problems the user may encounter. In design thinking you must first identify the problem, agree on the target demographic, prioritize projects, and propose a solution. I'm not crazy about design, but that may be due to my lack of css experience. Empathy is crucial to the design process, you must be able to connect with your target audience in order to first understand their problems/goals and second rectify their issues. I feel like I'm just touching the surface of what wireframing means to the design process, so I'm not super confident about my ability to explain it in detail to someone non-technical. Learning about the design process was a pleasant experience, writing about it... not so great.
