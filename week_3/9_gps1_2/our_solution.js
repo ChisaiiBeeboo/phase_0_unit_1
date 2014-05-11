@@ -16,9 +16,13 @@ var client2 = {
     name: "Alladdin",
     age: 26,
     quote: "That's Abu!",
+    showQuote: function () {
+        return this.quote;
+    }
     };
-    
 
+
+console.log(client2.showQuote());
 
 console.log(client1);
 console.log(client2);

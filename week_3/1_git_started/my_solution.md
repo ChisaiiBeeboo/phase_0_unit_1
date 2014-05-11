@@ -6,10 +6,10 @@ Define the following commands and describe how they work/what they do.
 stages the file you wish to commit. kinda like adding items to a container being prepared for shipment.
 
 #### branch
-<!-- Your defnition here -->
+gives you a list of local branches, git branch -a lists both local and remote branches.
 
 #### checkout
-<!-- Your defnition here -->
+lets you switch between the branches you're working on.
 
 #### clone
 lets you clone a working copy of a local or remote repository. git clone /path/repo command will let you clone a local repo. and git clone username@host:/path/repo will copy a remote repo.
@@ -18,25 +18,25 @@ lets you clone a working copy of a local or remote repository. git clone /path/r
 commits all the files you've added and any change you've made to a file. the equivalent of sealing up the box and labeling it before you ship 
 
 #### fetch
-<!-- Your defnition here -->
+downloads all content and changes from other branches.
 
 #### log
-<!-- Your defnition here -->
+gives you a detailed list of recent commits including the date and time they were commited and by who
 
 #### merge
-<!-- Your defnition here -->
+lets you merge the contents/changes of different branches
 
 #### pull
-<!-- Your defnition here -->
+applies the changes from a remote repo to your current branch
 
 #### push
 sends the files/changes you've commited to the remote server where its accessible online.
 
 #### reset
-<!-- Your defnition here -->
+is a permanent undo to changes. It can unstage a file without overwriting changes
 
 #### rm
-<!-- Your defnition here -->
+it tells git to stop tracking the file without deleting it.
 
 #### status
 gives you a list of files that have changed, and ones you have yet to add.
