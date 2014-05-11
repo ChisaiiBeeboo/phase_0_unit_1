@@ -36,7 +36,7 @@ sends the files/changes you've commited to the remote server where its accessibl
 is a permanent undo to changes. It can unstage a file without overwriting changes
 
 #### rm
-it tells git to stop tracking the file without deleting it.
+tells git to stop tracking the file without deleting it.
 
 #### status
 gives you a list of files that have changed, and ones you have yet to add.
@@ -44,10 +44,29 @@ gives you a list of files that have changed, and ones you have yet to add.
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+cd into directory
+git status
+git add
+git status
+git commit -m ""
+git push origin master
+
 - Fetch changes
+cd into directory
+git fetch <remote> <rbranch>:<lbranch> 
+git checkout <lbranch>
+
 - Commit locally
+cd into dir
+git status
+git add file
+git commit -m ""
+
+Release 6: Review
+deepakswami07/phase_0_unit_1
+JYoung217/phase_0_unit_1
 
 ## Release 5: Reflection
 
-
+I struggled with git/Github the first two weeks due to an unknown issue with OSX's Keychain Access settings. Through the app I was able to commit and push from one repo, but denied by the other. I ended up deleting the current git version I had installed and upgraded to the latest release. I then deleted my current ssh keys and generated new ones, voila. I was commiting and pushing in no time. I'm still working on trying to bypass entering my username/password everytime I push. And when pushing Keychain Access is asking me to reset my password everytime, still investigating the root of this. 
 
