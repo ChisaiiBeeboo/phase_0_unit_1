@@ -36,8 +36,6 @@ var ClientMaker = function (name, age, quote) {
 };
 
 
-
-
 var kristenBell = new ClientMaker("Kristen Bell", 33, "Do you wanna build a snowman?")
 
 var jimCarrey = new ClientMaker("Jim Carrey", 52, "...So you're telling me there's a chance? YEAH!")
@@ -84,21 +82,21 @@ printClient(client2);
 
 
 //  Your Reflection:
-What parts of your strategy worked? What problems did you face?
-We were successful in creating objects using object literal notation. We had minor syntax errors along the way.
+// What parts of your strategy worked? What problems did you face?
+// We were successful in creating objects using object literal notation. We had minor syntax errors along the way.
 
-What questions did you have while coding? What resources did you find to help you answer them?
-Not quite sure what "this" is, but I received a helpful link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+// What questions did you have while coding? What resources did you find to help you answer them?
+// Not quite sure what "this" is, but I received a helpful link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 
-What concepts are you having trouble with, or did you just figure something out? If so, what?
-Still confused as to when to use ':' and '='
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// Still confused as to when to use ':' and '='
 
-Did you learn any new skills or tricks?
-How confident are you with each of the Learning Competencies?
-Ultimate confidence
+// Did you learn any new skills or tricks?
+// How confident are you with each of the Learning Competencies?
+// Ultimate confidence
 
-Which parts of the challenge did you enjoy?
-Creating functions to streamline storing clients.
+// Which parts of the challenge did you enjoy?
+// Creating functions to streamline storing clients.
 
-Which parts of the challenge did you find tedious?
-Nada
+// Which parts of the challenge did you find tedious?
+// Nada
